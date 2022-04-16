@@ -1,2 +1,2 @@
 # daltonshadle.github.io
-Personal website hosted by Github
+Personal website hosted by GitHub
